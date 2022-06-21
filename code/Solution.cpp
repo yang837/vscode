@@ -1,6 +1,6 @@
-# include <iostream>
-using namespace std;
-
-int main() {
-    cout << 1;
-}
+class Solution {
+public:
+    double myPow(double x, int n) {
+        
+    }
+};
